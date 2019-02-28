@@ -10,13 +10,13 @@ Locally host Google Fonts' [Noto Sans TC](https://fonts.googleapis.com/css?famil
 1. In HTML `<head>` element, insert
 
 	```html
-	 <link rel="stylesheet" href="/path/to/font-nst.css"> 
+	<link rel="stylesheet" href="/path/to/font-nst.css"> 
 	```
 
 1. In CSS, e.g.
 
 	```css
 	p {
-		font-family: 'NST';
+	    font-family: 'NST';
 	}
 	```
